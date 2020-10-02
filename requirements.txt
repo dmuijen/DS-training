@@ -1,0 +1,4 @@
+featuretools==0.10.1
+h2o==3.26.0.5
+numpy==1.17.2
+pandas==0.25.1
